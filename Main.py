@@ -653,7 +653,7 @@ if __name__ == "__main__":
 /_/ |_|\___/\__,_/\___/\___/_/ /_/ /_/\___/_/     
                                                                              
 
-          -> https://ogu.gg/heracles                                   
+          -> codeapp9988@gmail.com                              
           -> Nitro Redeemer
 
  """)
